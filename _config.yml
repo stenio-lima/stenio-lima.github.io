@@ -14,7 +14,7 @@ timezone:  America/Fortaleza
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Stenio.dev # the main title
+title: stenio.dev # the main title
 
 tagline: Estudos, tutoriais e mais sobre a carreira dev # it will display as the sub-title
 
